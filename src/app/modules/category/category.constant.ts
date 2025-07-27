@@ -1,1 +1,1 @@
-export const categorySearch = ['main_category', 'sub_category'];
+export const categorySearch = ['main_category', 'sub_category', 'name'];
